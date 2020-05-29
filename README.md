@@ -12,7 +12,7 @@ The Docs and the Roadmap are two sections that we expect will deliver the most i
 
 ## Contribution Guidelines for CosmosHub
 
-In the interest of keeping the content on CosmosHub looking uniform, we have set up a template that you can use when adding your own pages to the github repo. You can find the template [here](https://github.com/ethhub-io/ethhub/tree/138f04335ad4a090d8eb370a9af90ee82fccf1a6/template.md).
+In the interest of keeping the content on CosmosHub looking uniform, we have set up a template that you can use when adding your own pages to the github repo. You can find the template [here]().
 
 There are also some basic guidelines that need to be followed when contributing to CosmosHub:
 
